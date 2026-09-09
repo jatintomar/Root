@@ -1,0 +1,6 @@
+{
+  "name": "LSPromise",
+  "description": "Android privilege escalation exploit suite and interactive security research console based on LSPosed LSPromise (CVE-2026-49881 & CVE-2026-43284).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
